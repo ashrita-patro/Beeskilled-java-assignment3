@@ -1,0 +1,19 @@
+Word Frequency Report
+=====================
+java : 4
+is : 2
+useful : 2
+makes : 1
+it : 1
+easier : 1
+to : 1
+build : 1
+applications : 1
+collections : 1
+help : 1
+developers : 1
+manage : 1
+data : 2
+for : 1
+learning : 1
+structures : 1

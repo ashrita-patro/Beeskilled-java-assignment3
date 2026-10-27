@@ -1,0 +1,4 @@
+Java is useful.
+Java makes it easier to build applications.
+Collections help Java developers manage data.
+Java is useful for learning data structures.
